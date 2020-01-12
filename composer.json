@@ -1,0 +1,14 @@
+{
+    "name": "AtozWordpress/AtozWordpress_admin_page",
+    "description": "Admin page for WordPress plugin using AtozWordpress",
+    "authors": [
+        {
+            "name": "Atoz Sites",
+            "email": "AtozSites@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {"AtozWordpressAdminPage\\": "src/"}
+    },
+    "require": {}
+}
